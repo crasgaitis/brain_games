@@ -1,0 +1,4 @@
+numpy
+scipy
+requests==2.31.0
+pylsl==1.16.1
